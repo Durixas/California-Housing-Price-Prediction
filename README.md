@@ -4,7 +4,7 @@
 
 This project focuses on predicting housing prices in California using machine learning algorithms and conducting in-depth analyses of the importance of each feature in the model.
 
-### Key Highlights
+## Key Highlights
 
 - **Algorithm Development:** Developed algorithms in Python, including Random Forest, Gradient Boosting, and Multilayer Perceptron (MLP), to accurately predict housing prices in California.
 
